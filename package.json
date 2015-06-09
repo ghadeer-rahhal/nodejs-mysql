@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Ghadeer Rahhal",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.7.0",
+    "q": "^1.4.1"
+  }
+}
