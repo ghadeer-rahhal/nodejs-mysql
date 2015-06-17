@@ -6,4 +6,5 @@ Steps to run this example
 3. Run **data.sql** against your database.
 4. run app.js by issuing the following command: (**node app.js**)
 
-The blog article can be found here: http://blog.ghadeerrahhal.com/nodejs-mysql
+The blog article can be found here: 
+http://blog.ghadeerrahhal.com/nodejs-mysql
